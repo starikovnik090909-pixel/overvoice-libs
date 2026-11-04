@@ -1,0 +1,129 @@
+{
+ "files": {
+  "torch-2.6.0+cu124-cp312-cp312-win_amd64.whl": {
+   "size": 2532302369,
+   "sha256": "3313061c1fec4c7310cf47944e84513dcd27b6173b72a349bb7ca68d0ee6e9c0",
+   "parts": [
+    {
+     "name": "torch-cu124-000.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-001.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-002.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-003.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-004.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-005.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-006.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-007.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-008.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-009.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-010.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-011.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-012.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-013.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-014.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-015.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-016.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-017.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-018.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-019.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-020.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-021.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-022.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-023.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-024.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-025.part",
+     "size": 94371840
+    },
+    {
+     "name": "torch-cu124-026.part",
+     "size": 78634529
+    }
+   ]
+  },
+  "torchaudio-2.6.0+cu124-cp312-cp312-win_amd64.whl": {
+   "size": 4157942,
+   "sha256": "004ff6bcee0ac78747253c09db67d281add4308a9b87a7bf1769da5914998639",
+   "parts": [
+    {
+     "name": "torchaudio-cu124-000.part",
+     "size": 4157942
+    }
+   ]
+  }
+ },
+ "note": "Mirror of PyTorch 2.6.0 cu124 wheels (BSD-3) for Overvoice engine"
+}
